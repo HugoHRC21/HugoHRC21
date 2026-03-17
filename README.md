@@ -11,7 +11,7 @@ Soy un profesional apasionado por la tecnología y la eficiencia. Mi formación 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** JavaScript (ES6+), C++, HTML5, CSS3.
+- **Lenguajes:** C++, Node.JS, JavaScript (ES6+), C++, HTML5, CSS3.
 - **Entorno:** WSL (Ubuntu), Git/GitHub.
 ---
 
