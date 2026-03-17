@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Hugo Rivas👋
 
-<!--
-**HugoHRC21/HugoHRC21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer 🚀
 
-Here are some ideas to get you started:
+Soy un profesional apasionado por la tecnología y la eficiencia. Mi formación en **Administración** me permite abordar el desarrollo de software con una mentalidad analítica, organizada y orientada a resultados de negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Actualmente enfocado en: **Full-Stack Development (JavaScript, Node.js, C++, HTML/CSS)**.
+- 📊 Mi valor agregado: Capacidad para traducir procesos administrativos en soluciones técnicas sólidas.
+- 🎓 Estudiando constantemente: Estructuras de datos, Algoritmos y Cloud Infrastructure (AWS).
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript (ES6+), C++, HTML5, CSS3.
+- **Entorno:** WSL (Ubuntu), Git/GitHub.
+---
+
+### 📬 Contacto
+- [LinkedIn](https://www.linkedin.com/in/hugohrc21/)
+- [Portafolio](https://github.com/HugoHRC21?tab=repositories)
